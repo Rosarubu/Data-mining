@@ -21,8 +21,8 @@ SupLOS, __choose SupLOS=0 remove =1__
 
 
 at first 2668991 Claims.csv    
-after the process we have 898873 rows store in Claims_Y2_2.csv        
-no of patients(unique row) eq to 71436 Claims_Y2_2.csv     
+after the process we have 895021 rows store in Claims_Y2_2.csv        
+no of patients(unique row) eq to 71436  Claims_Y2_2.csv     
                      
   * for *DaysInHospital_Y2.csv* only three variables    
   MemberID,    
@@ -67,3 +67,10 @@ unique 51269 LabCount_2.csv
  
 113001 Members.csv     
 unique 113001 Members.csv     
+
+
+
+
+Combine all five tables     
+883836 com_5.xls i.e. 883836 records          
+unique 71433 com_5.xls i.e. 71433 patients        
