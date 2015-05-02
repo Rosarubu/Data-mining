@@ -4,7 +4,7 @@ awk -F ',' '{print $1}' file| wc -l #split file using , then find no of row in c
 awk -F ',' '{print $1}' file| sort -u | wc -l #split file using , then find no of unique row in column 1
 ```
 
-^M delete (http://blog.csdn.net/zhangguangyi888/article/details/8159601)      
+[^M delete] (http://blog.csdn.net/zhangguangyi888/article/details/8159601)      
 在Vim中解决这个问题，很简单，在Vim中利用替换功能就可以将“^M”都删掉，键入如下替换命令行：
 :%s/^M//g
 注意：
