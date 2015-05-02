@@ -14,7 +14,7 @@ PayDelay, __replace the category to number, replace days weeks months  to 1,7,30
 LengthOfStay,__replace the category to number. replace days weeks months  to 1,7,30 and NULL to 0__   
 DSFS,replace the category to number. __replace days weeks months  to 1,7,30 and NULL to 0__   
 PrimaryConditionGroup,   
-CharlsonIndex,   __http://en.wikipedia.org/wiki/Comorbidity__In medicine, comorbidity is the presence of one or more additional disorders (or diseases) co-occurring with a primary disease or disorder; or the effect of such additional disorders or diseases. The additional disorder may also be a behavioral or mental disorder.    
+CharlsonIndex,   http://en.wikipedia.org/wiki/Comorbidity  __In medicine, comorbidity is the presence of one or more additional disorders (or diseases) co-occurring with a primary disease or disorder; or the effect of such additional disorders or diseases. The additional disorder may also be a behavioral or mental disorder.__    
 ProcedureGroup,   
 SupLOS, __choose SupLOS=0 remove =1__ 
 
