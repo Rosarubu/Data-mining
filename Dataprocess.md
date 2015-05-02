@@ -22,7 +22,7 @@ SupLOS, __choose SupLOS=0 remove =1__
 
 at first 2668991 Claims.csv    
 after the process we have 895021 rows store in Claims_Y2_2.csv        
-no of patients(unique row) eq to 71436  Claims_Y2_2.csv     
+no of patients(unique row) eq to 71433  Claims_Y2_2.csv     
                      
   * for *DaysInHospital_Y2.csv* only three variables    
   MemberID,    
