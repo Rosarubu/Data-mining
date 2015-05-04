@@ -11,7 +11,7 @@ Impute : Class/Interval Variables impute method: Tree
 Indecator type:Unique       
 Role:Input    
 
-Note: The GLM Role values Model and ZI Model and ZI Model are specific when modeling a Zero-Inflated Poisson (ZIP) model or Zero-Inflated Negative Binomial (ZINB) model and the ZI Model Variables property is set to User Defined. A zero-inflated model is typically used to predict claim counts. It is normal for insurance data to contain a large proportion of observations that have zero values for claim count variables. The zero-inflated approach fits two separate models, and then combines them. First, a logit model is fit to determine whether an observation contains a zero count claim variable, or not. Then a Poisson or negative binomial model is used to fit observations with nonzero values for the claim count variables (claim counts of 1, 2, 3, and so on.) The two models are then combined.
+Note: The GLM Role values Model and ZI Model and ZI Model are specific when modeling a Zero-Inflated Poisson (ZIP) model or Zero-Inflated Negative Binomial (ZINB) model and the ZI Model Variables property is set to User Defined. A zero-inflated model is typically used to predict claim counts. It is normal for insurance data to contain a large proportion of observations that have zero values for claim count variables. The zero-inflated approach fits two separate models, and then combines them. _First, a logit model is fit to determine whether an observation contains a zero count claim variable, or not. Then a Poisson or negative binomial model is used to fit observations with nonzero values for the claim count variables (claim counts of 1, 2, 3, and so on.) The two models are then combined._
 
 
 
