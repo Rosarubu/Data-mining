@@ -1,12 +1,17 @@
 deal with claims data    
 
 
-Replacement:   Interval variable: Method : NONE;     
-Replacement value: Missing
+Filter : drop the missing data from PCP, ProviderID, Vendor     
+Metadata:   change MemberID to rejected, 
+
+
+
 
 Impute : Class/Interval Variables impute method: Tree      
 Indecator type:Unique       
 Role:Input    
+
+
 
 
 
